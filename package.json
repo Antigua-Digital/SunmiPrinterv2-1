@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-sunmi-inner-printer-sunmi-v2",
-  "version": "1.0.3",
+  "name": "SunmiPrinter",
+  "version": "2.0.0",
   "description": "Cordova/Ionic Sunmi v2 Inner Printer ",
   "cordova": {
-    "id": "cordova-plugin-sunmi-inner-printer-sunmi-v2",
+    "id": "SunmiPrinter",
     "platforms": [
       "android"
     ]
