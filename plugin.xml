@@ -38,20 +38,20 @@
         </config-file>
 
         <source-file src="src/android/java/com/sunmi/utils/BitmapUtils.java"
-                     target-dir="app/src/main/java/com/sunmi/utils/"/>
+                     target-dir="src/main/java/com/sunmi/utils/"/>
         <source-file src="src/android/java/com/sunmi/utils/ThreadPoolManager.java"
-                     target-dir="app/src/main/java/com/sunmi/utils/"/>
+                     target-dir="src/main/java/com/sunmi/utils/"/>
         <source-file src="src/android/java/com/sunmi/trans/Printer.java"
-                     target-dir="app/src/main/java/com/sunmi/trans/"/>
+                     target-dir="src/main/java/com/sunmi/trans/"/>
         <source-file src="src/android/java/com/sunmi/trans/PrinterStatusReceiver.java"
-                     target-dir="app/src/main/java/com/sunmi/trans/"/>
+                     target-dir="src/main/java/com/sunmi/trans/"/>
         <source-file src="src/android/java/com/sunmi/trans/TransBean.java"
-                     target-dir="app/src/main/java/com/sunmi/trans/"/>
+                     target-dir="src/main/java/com/sunmi/trans/"/>
         <source-file src="src/android/aidl/woyou/aidlservice/jiuiv5/IWoyouService.aidl"
-                     target-dir="app/src/main/aidl/woyou/aidlservice/jiuiv5/"/>
+                     target-dir="src/main/aidl/woyou/aidlservice/jiuiv5/"/>
         <source-file src="src/android/aidl/woyou/aidlservice/jiuiv5/ICallback.aidl"
-                     target-dir="app/src/main/aidl/woyou/aidlservice/jiuiv5/"/>
+                     target-dir="src/main/aidl/woyou/aidlservice/jiuiv5/"/>
         <source-file src="src/android/aidl/com/sunmi/trans/TransBean.aidl"
-                     target-dir="app/src/main/aidl/com/sunmi/trans/"/>
+                     target-dir="src/main/aidl/com/sunmi/trans/"/>
     </platform>
 </plugin>
