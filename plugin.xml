@@ -41,8 +41,8 @@
                      target-dir="src/main/java/com/sunmi/utils/"/>
         <source-file src="src/android/java/com/sunmi/utils/ThreadPoolManager.java"
                      target-dir="src/main/java/com/sunmi/utils/"/>
-        <source-file src="src/android/java/com/sunmi/trans/Printer.java"
-                     target-dir="src/main/java/com/sunmi/trans/"/>
+        <source-file src="src/usac/trans/Printer.java"
+                     target-dir="usac/com/sunmi/trans/"/>
         <source-file src="src/android/java/com/sunmi/trans/PrinterStatusReceiver.java"
                      target-dir="src/main/java/com/sunmi/trans/"/>
         <source-file src="src/android/java/com/sunmi/trans/TransBean.java"
